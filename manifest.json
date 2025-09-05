@@ -1,11 +1,10 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "First Chrome Extension",
+    "name": "Hello extension",
     "description": "A description of my Chrome extension.",
     "action": {
-        "default_popup": "hello.html",
-        "default_icon": "icons/MagnifyGlass.svg"
-        
+        "default_popup": "application/index.html",
+        "default_icon": "images/magnifyglass.png"
     }
 }
